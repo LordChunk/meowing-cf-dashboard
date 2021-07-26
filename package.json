@@ -29,7 +29,7 @@
     "@angular/platform-server": "~12.1.0",
     "@angular/router": "~12.1.0",
     "@nguniversal/express-engine": "12.1.0",
-    "chart.js": "^3.3.2",
+    "chart.js": "^3.5.0",
     "chartjs-chart-treemap": "^1.0.1",
     "express": "^4.15.2",
     "ng2-charts": "^3.0.0-rc.3",
