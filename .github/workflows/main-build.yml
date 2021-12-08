@@ -41,7 +41,7 @@ jobs:
         run: yarn run build
 
       - name: Upload Build Folder
-        uses: actions/upload-artifact@v2.2.4
+        uses: actions/upload-artifact@v2.3.0
         with:
           path: dist/
           name: build
