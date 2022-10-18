@@ -2404,10 +2404,10 @@ chart.js@^3.3.2:
   resolved "https://registry.yarnpkg.com/chart.js/-/chart.js-3.3.2.tgz#667f3a0b6371b9719d8949c04a5bcbaec0d8c615"
   integrity sha512-H0hSO7xqTIrwxoACqnSoNromEMfXvfuVnrbuSt2TuXfBDDofbnto4zuZlRtRvC73/b37q3wGAWZyUU41QPvNbA==
 
-chartjs-chart-treemap@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/chartjs-chart-treemap/-/chartjs-chart-treemap-1.0.1.tgz#66439426ae86a61120758dd1a03b634317054d8a"
-  integrity sha512-RDkosgWNX/IqTWvl1kfV5csNUhz1pUqam+edlOF0HYRcVNMg75lldy5GNECXzcOUxCdsgbH8PztemTiZW9aBzw==
+chartjs-chart-treemap@^2.1.2:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/chartjs-chart-treemap/-/chartjs-chart-treemap-2.1.2.tgz#57d0ea3d77e102bf75d124ceceef1695f77df6d4"
+  integrity sha512-thK3w+55lDctY2QqAEmV+HSMhTtiyK+aPOKBeHGR25Nfivimj+mxbX/GQdjxaqwLD5o0riaVSoargBtycAswww==
 
 "chokidar@>=3.0.0 <4.0.0", chokidar@^3.0.0, chokidar@^3.5.1:
   version "3.5.2"
